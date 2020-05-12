@@ -17,4 +17,3 @@ namespace tools {
         basic.showNumber(length*width)
     }
 }
-© 2020 GitHub, Inc.
